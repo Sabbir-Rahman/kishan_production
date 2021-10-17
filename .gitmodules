@@ -1,0 +1,24 @@
+[submodule "kishanEcommBackend"]
+	path = kishanEcommBackend
+	url = https://github.com/Sabbir-Rahman/kishanEcommBackend
+[submodule "kishanEcommFrontend"]
+	path = kishanEcommFrontend
+	url = https://github.com/Sabbir-Rahman/kishanEcommFrontend
+[submodule "kishan_fosholer_dr"]
+	path = kishan_fosholer_dr
+	url = https://github.com/Sabbir-Rahman/kishan_fosholer_dr
+[submodule "kishanAdminAuthBackend"]
+	path = kishanAdminAuthBackend
+	url = https://github.com/Sabbir-Rahman/kishanAdminAuthBackend
+[submodule "kishanForumFrontend"]
+	path = kishanForumFrontend
+	url = https://github.com/Sabbir-Rahman/kishanForumFrontend
+[submodule "kishanForumBackend"]
+	path = kishanForumBackend
+	url = https://github.com/Sabbir-Rahman/kishanForumBackend
+[submodule "kishanVideoBackend"]
+	path = kishanVideoBackend
+	url = https://github.com/Sabbir-Rahman/kishanVideoBackend
+[submodule "kishanVideoFrontend"]
+	path = kishanVideoFrontend
+	url = https://github.com/Sabbir-Rahman/kishanVideoFrontend
