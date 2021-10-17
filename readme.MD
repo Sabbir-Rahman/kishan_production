@@ -5,4 +5,4 @@ git submodules add repo_link
 
 # to pull repo with submodules
 git pull then
-git submodules update --init
+git submodule update --init
